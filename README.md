@@ -4,7 +4,7 @@ I'm currently a postdoc in [Institute of Functional Epigenetics, Munich](https:/
 In my research I apply computational tools to biological problems. 
 
 Together with my collaborators I try to define the role of histone post-translational modifications in transcriptional regulation.
-Regretablly, I cannot yet share most of this work as it is still ongoing.
+Regrettably, most of this work is still ongoing and I cannot share it yet.
 
 Meanwhile, this repository serves to host the code used in my [previous publications](https://scholar.google.de/citations?user=iQGCYb4AAAAJ&hl=en&oi=ao), as well as small side projects such as python implementation of [MA plots and TMM normalisation](https://github.com/lukauskas/tmma), or visualisation of [recent batch of Lithuanian political opinions](https://github.com/lukauskas/seimo-rinkimai-2020) (in Lithuanian only). 
 
