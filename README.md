@@ -1,14 +1,10 @@
 ### Hi there, I'm Saulius 👋
 
-I'm currently a postdoc in [Institute of Functional Epigenetics, Munich](https://www.helmholtz-muenchen.de/ife/index.html).
-In my research I apply computational tools to biological problems. 
+AI Engineer at [Hostinger](https://www.hostinger.com/), formerly Data Science Manager at [GetYourGuide](https://www.getyourguide.com/) and postdoc at the [Institute of Functional Epigenetics](https://www.helmholtz-munich.de/ife), Munich.
 
-Together with my collaborators I try to define the role of histone post-translational modifications in transcriptional regulation.
-Regrettably, most of this work is still ongoing and I cannot share it yet.
+This repository hosts the code used in my [publications](https://scholar.google.de/citations?user=iQGCYb4AAAAJ&hl=en&oi=ao), plus a couple of side projects: a python implementation of [MA plots and TMM normalisation](https://github.com/lukauskas/tmma), and a visualisation of the [2020 Lithuanian election opinions](https://github.com/lukauskas/seimo-rinkimai-2020) (in Lithuanian only).
 
-Meanwhile, this repository serves to host the code used in my [previous publications](https://scholar.google.de/citations?user=iQGCYb4AAAAJ&hl=en&oi=ao), as well as small side projects such as python implementation of [MA plots and TMM normalisation](https://github.com/lukauskas/tmma), or visualisation of [recent batch of Lithuanian political opinions](https://github.com/lukauskas/seimo-rinkimai-2020) (in Lithuanian only). 
-
-Additionally, you can always reach me via [LinkedIn](https://www.linkedin.com/in/sauliuslukauskas/), [twitter](https://twitter.com/lukauskas_), or my [emplyoer](https://www.helmholtz-muenchen.de/ife/about-us/people/staff-detail/ma/6520/Dr.-Lukauskas/index.html).
+Reach me via [LinkedIn](https://www.linkedin.com/in/sauliuslukauskas/) or find my publication record on [Google Scholar](https://scholar.google.de/citations?user=iQGCYb4AAAAJ&hl=en&oi=ao).
 
 <!--
 **lukauskas/lukauskas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
