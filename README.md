@@ -2,9 +2,7 @@
 
 AI Engineer at [Hostinger](https://www.hostinger.com/), formerly Data Science Manager at [GetYourGuide](https://www.getyourguide.com/) and postdoc at the [Institute of Functional Epigenetics](https://www.helmholtz-munich.de/ife), Munich.
 
-This repository hosts the code used in my [publications](https://scholar.google.de/citations?user=iQGCYb4AAAAJ&hl=en&oi=ao), plus a couple of side projects: a python implementation of [MA plots and TMM normalisation](https://github.com/lukauskas/tmma), and a visualisation of the [2020 Lithuanian election opinions](https://github.com/lukauskas/seimo-rinkimai-2020) (in Lithuanian only).
-
-Reach me via [LinkedIn](https://www.linkedin.com/in/sauliuslukauskas/) or find my publication record on [Google Scholar](https://scholar.google.de/citations?user=iQGCYb4AAAAJ&hl=en&oi=ao).
+[LinkedIn](https://www.linkedin.com/in/sauliuslukauskas/) · [Google Scholar](https://scholar.google.de/citations?user=iQGCYb4AAAAJ&hl=en&oi=ao)
 
 <!--
 **lukauskas/lukauskas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
